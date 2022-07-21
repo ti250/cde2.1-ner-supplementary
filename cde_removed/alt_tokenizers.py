@@ -1,5 +1,6 @@
 import spacy
 from chemtok import ChemTokeniser
+# chemtok is included in the package chemlistem on PyPI
 from chemdataextractor.nlp.tokenize import WordTokenizer, ChemWordTokenizer
 
 
